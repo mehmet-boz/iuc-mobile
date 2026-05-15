@@ -10,9 +10,7 @@ export default function App() {
           <Text style={{ color: '#fff' }}>This is a button</Text>
         </TouchableOpacity>
         <Button title="This is a standart button" />
-
         <TextInput style={styles.input} defaultValue="Enter a value" />
-
         <View style={styles.box}>
           <Text>Lorem ipsum dolor sit amet, consectetur</Text>
         </View>
